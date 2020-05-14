@@ -1,3 +1,11 @@
+# Ignore images and video extentions
+*.JPG
+*.JPEG
+*.jpg
+*.jpeg
+*.mp4
+*.wmv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
